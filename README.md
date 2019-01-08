@@ -1,7 +1,7 @@
 # BookReading
 
 
-Coding 编写代码
+System Design & Coding 系统设计和编写代码
 
 [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/) ⭐️
 
@@ -9,9 +9,7 @@ Coding 编写代码
 
 [A Philosophy of Software Design](https://book.douban.com/subject/30218046/) ⭐️
 
-
-
-System Design 系统设计
+[重构](https://book.douban.com/subject/4262627/)
 
 [Head First 设计模式（中文版）](https://book.douban.com/subject/2243615/) ⭐️
 
