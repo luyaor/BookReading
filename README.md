@@ -1,7 +1,7 @@
 # BookReading
 
 
-System Design & Coding 系统设计和编写代码
+## System Design & Coding 系统设计和编写代码
 
 [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/) ⭐️
 
@@ -17,7 +17,7 @@ System Design & Coding 系统设计和编写代码
 
 
 
-Functional Programming 函数式编程
+## Functional Programming 函数式编程
 
 [Haskell趣学指南](https://book.douban.com/subject/25803388/)
 
@@ -29,13 +29,13 @@ Functional Programming 函数式编程
 
 
 
-Machine Learning 机器学习
+## Machine Learning 机器学习
 
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow : Concepts, Tools, and Techniques for Building Intelligent Systems](https://book.douban.com/subject/26840215/)
 
 
 
-Front-End 前端
+## Front-End 前端
 
 [锋利的jQuery : 第2版](https://book.douban.com/subject/10792216/)
 
@@ -43,7 +43,7 @@ Front-End 前端
 
 
 
-Notes 随笔
+## Notes 随笔
 
 [Web全栈工程师的自我修养](https://book.douban.com/subject/26598045/)
 
@@ -51,7 +51,7 @@ Notes 随笔
 
 
 
-Other 其他
+## Other 其他
 
 [计算广告](https://book.douban.com/subject/26596778/) ⭐️
 
